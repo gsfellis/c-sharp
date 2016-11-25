@@ -1,0 +1,6 @@
+d:\users\spaceman\documents\visual studio 2015\Projects\ConsoleToDo\ConsoleToDo\bin\Debug\ConsoleToDo.exe.config
+d:\users\spaceman\documents\visual studio 2015\Projects\ConsoleToDo\ConsoleToDo\bin\Debug\ConsoleToDo.exe
+d:\users\spaceman\documents\visual studio 2015\Projects\ConsoleToDo\ConsoleToDo\bin\Debug\ConsoleToDo.pdb
+d:\users\spaceman\documents\visual studio 2015\Projects\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.csprojResolveAssemblyReference.cache
+d:\users\spaceman\documents\visual studio 2015\Projects\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.exe
+d:\users\spaceman\documents\visual studio 2015\Projects\ConsoleToDo\ConsoleToDo\obj\Debug\ConsoleToDo.pdb
